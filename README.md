@@ -1,24 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShinjiMC.ShinjiMC" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Braulio+Maldonado;Welcome+to+my+Profesional+Profile+%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0D6909&center=true&width=500&height=70&lines=I'm+Braulio+Maldonado;Welcome+to+my+Profesional+Profile+%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">An Exceptional Software Developer from Peru 🇵🇪</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
- 
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 👨‍💻 I'm currently pursuing a degree in **Computer Science**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 📚 Currently expanding my knowledge in **React, Golang, and C# .NET Framework**
  
  </div>
+
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
@@ -34,11 +31,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🚀 Tech Universe: Languages, Frameworks, and Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,go,java,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mongodb,mysql,github" /><br>
+    <img src="https://skillicons.dev/icons?i=ae,blender,figma,ps,pr" /><br>
 </div>
 
 <br/>
@@ -47,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ShinjiMC/ShinjiMC/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
