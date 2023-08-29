@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&pause=1000&color=0D6909&center=true&width=500&height=70&lines=I'm+Braulio+Maldonado;Welcome+to+my+Profesional+Profile+%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&pause=1000&color=ffff&center=true&width=500&height=70&lines=I'm+Braulio+Maldonado;Welcome+to+my+Profesional+Profile+%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">An Exceptional Software Developer from Peru 🇵🇪</h3>
@@ -66,7 +66,7 @@
 <hr/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&pause=1000&color=0D6909&center=true&multiline=true&width=500&height=70&lines=I'm+grateful+for+your+visit+%E2%80%93+your+interest+means+a+lot!+;Feel+free+to+explore+and+connect+with+me+on+my+coding+journey." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&pause=1000&color=ffff&center=true&multiline=true&width=500&height=70&lines=I'm+grateful+for+your+visit+%E2%80%93+your+interest+means+a+lot!+;Feel+free+to+explore+and+connect+with+me+on+my+coding+journey." alt="Typing SVG" />
 </h3>
 
 <br/>
