@@ -66,7 +66,7 @@
 <hr/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&pause=1000&color=ffff&center=true&multiline=true&width=500&height=70&lines=I'm+grateful+for+your+visit+%E2%80%93+your+interest+means+a+lot!+;Feel+free+to+explore+and+connect+with+me+on+my+coding+journey." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&pause=1000&color=ffff&center=true&multiline=true&width=600&height=70&lines=I'm+grateful+for+your+visit+%E2%80%93+your+interest+means+a+lot!+;Feel+free+to+explore+and+connect+with+me+on+my+coding++journey." alt="Typing SVG" />
 </h3>
 
 <br/>
