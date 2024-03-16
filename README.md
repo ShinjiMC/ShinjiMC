@@ -30,11 +30,9 @@
  
 <h2 align="center">🚀 Tech Universe: Languages, Frameworks, and Tools 🛠️</h2>
 <br/>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <div style="background-color: #2a2734; border: 2px solid white; border-radius: 8px; padding: 0 10px; display: flex; align-items: center; gap: 10px; height:30px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo" style="margin: 3px 0;" />
-    <p style="color: white; margin: 0;"><strong>JavaScript</strong></p>
-  </div>
+<div align="center">
+    <img src=".SVG/js.svg" height="20" alt="javascript logo" style="margin: 3px 0;" />
+    <img src=".SVG/ts.svg" height="20" alt="javascript logo" style="margin: 3px 0;" />
   <div style="background-color: #2a2734; border: 2px solid white; border-radius: 8px; padding: 0 10px; display: flex; align-items: center; gap: 10px; height:30px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo" style="margin: 3px 0;" />
     <p style="color: white; margin: 0;"><strong>TypeScript</strong></p>
