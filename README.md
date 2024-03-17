@@ -29,12 +29,73 @@
  <hr/>
  
 <h2 align="center">🚀 Tech Universe: Languages, Frameworks, and Tools 🛠️</h2>
-<br/>
+<h3 align="left">Programming languages</h3>
 <div align="center">
   <img src=".SVG/js.svg" height="30" alt="javascript logo" style="margin: 3px 0;" />
   <img src=".SVG/ts.svg" height="30" alt="typescript logo" style="margin: 3px 0;" />
-  <img src=".SVG/anaconda.svg" height="30" alt="anaconda logo" style="margin: 3px 0;" />
+  <img src=".SVG/c.svg" height="30" alt="c logo" style="margin: 3px 0;" />
+  <img src=".SVG/cplusplus.svg" height="30" alt="cplusplus logo" style="margin: 3px 0;" />
+  <img src=".SVG/csharp.svg" height="30" alt="csharp logo" style="margin: 3px 0;" />
+  <img src=".SVG/golang.svg" height="30" alt="golang logo" style="margin: 3px 0;" />
+  <img src=".SVG/java.svg" height="30" alt="java logo" style="margin: 3px 0;" />
+  <img src=".SVG/kotlin.svg" height="30" alt="kotlin logo" style="margin: 3px 0;" />
+  <img src=".SVG/php.svg" height="30" alt="php logo" style="margin: 3px 0;" />
+  <img src=".SVG/python.svg" height="30" alt="python logo" style="margin: 3px 0;" />
+  <img src=".SVG/r.svg" height="30" alt="r logo" style="margin: 3px 0;" />
+</div>
+<h3 align="left">FrontEnd Web Development</h3>
+<div align="center">
+  <img src=".SVG/html.svg" height="30" alt="html logo" style="margin: 3px 0;" />
+  <img src=".SVG/css.svg" height="30" alt="css logo" style="margin: 3px 0;" />
+  <img src=".SVG/sass.svg" height="30" alt="sass logo" style="margin: 3px 0;" />
+  <img src=".SVG/js.svg" height="30" alt="javascript logo" style="margin: 3px 0;" />
+  <img src=".SVG/ts.svg" height="30" alt="typescript logo" style="margin: 3px 0;" />
   <img src=".SVG/react.svg" height="30" alt="react logo" style="margin: 3px 0;" />
+  <img src=".SVG/next.svg" height="30" alt="next logo" style="margin: 3px 0;" />
+  <img src=".SVG/tailwind.svg" height="30" alt="tailwind logo" style="margin: 3px 0;" />
+</div>
+<h3 align="left">Backend Web Development</h3>
+<div align="center">
+  <img src=".SVG/node.svg" height="30" alt="node logo" style="margin: 3px 0;" />
+  <img src=".SVG/express.svg" height="30" alt="express logo" style="margin: 3px 0;" />
+  <img src=".SVG/django.svg" height="30" alt="django logo" style="margin: 3px 0;" />
+  <img src=".SVG/dotnetcore.svg" height="30" alt="dotnetcore logo" style="margin: 3px 0;" />
+  <img src=".SVG/spring.svg" height="30" alt="spring logo" style="margin: 3px 0;" />
+  <img src=".SVG/php.svg" height="30" alt="php logo" style="margin: 3px 0;" />
+</div>
+<h3 align="left">Databases</h3>
+<div align="center">
+  <img src=".SVG/mongo.svg" height="30" alt="mongo logo" style="margin: 3px 0;" />
+  <img src=".SVG/mysql.svg" height="30" alt="mysql logo" style="margin: 3px 0;" />
+  <img src=".SVG/postgresql.svg" height="30" alt="postgresql logo" style="margin: 3px 0;" />
+  <img src=".SVG/sqlite.svg" height="30" alt="sqlite logo" style="margin: 3px 0;" />
+</div>
+<h3 align="left">Mobile Development</h3>
+<div align="center">
+  <img src=".SVG/react.svg" height="30" alt="react logo" style="margin: 3px 0;" />
+  <img src=".SVG/kotlin.svg" height="30" alt="kotlin logo" style="margin: 3px 0;" />
+  <img src=".SVG/java.svg" height="30" alt="java logo" style="margin: 3px 0;" />
+</div>
+<h3 align="left">Videogames development</h3>
+<div align="center">
+  <img src=".SVG/unreal.svg" height="30" alt="unreal logo" style="margin: 3px 0;" />
+  <img src=".SVG/unity.svg" height="30" alt="unity logo" style="margin: 3px 0;" />
+  <img src=".SVG/processing.svg" height="30" alt="processing logo" style="margin: 3px 0;" />
+  <img src=".SVG/opengl.svg" height="30" alt="opengl logo" style="margin: 3px 0;" />
+</div>
+<h3 align="left">DevOps and Systems Administration</h3>
+<div align="center">
+  <img src=".SVG/docker.svg" height="30" alt="docker logo" style="margin: 3px 0;" />
+  <img src=".SVG/kubernetes.svg" height="30" alt="kubernetes logo" style="margin: 3px 0;" />
+  <img src=".SVG/jenkins.svg" height="30" alt="jenkins logo" style="margin: 3px 0;" />
+  <img src=".SVG/aws.svg" height="30" alt="aws logo" style="margin: 3px 0;" />
+  <img src=".SVG/azure.svg" height="30" alt="azure logo" style="margin: 3px 0;" />
+</div>
+<h3 align="left">Operating systems</h3>
+<div align="center">
+</div>
+<br/>
+<div align="center">
   <img src=".SVG/apache.svg" height="30" alt="apache logo" style="margin: 3px 0;" />
   <img src=".SVG/arduino.svg" height="30" alt="arduino logo" style="margin: 3px 0;" />
   <img src=".SVG/blender.svg" height="30" alt="blender logo" style="margin: 3px 0;" />
@@ -58,6 +119,43 @@
   <img src=".SVG/github.svg" height="30" alt="github logo" style="margin: 3px 0;" />
   <img src=".SVG/gitlab.svg" height="30" alt="gitlab logo" style="margin: 3px 0;" />
   <img src=".SVG/git.svg" height="30" alt="git logo" style="margin: 3px 0;" />
+  <img src=".SVG/graddle.svg" height="30" alt="graddle logo" style="margin: 3px 0;" />
+  <img src=".SVG/html.svg" height="30" alt="html logo" style="margin: 3px 0;" />
+  <img src=".SVG/java.svg" height="30" alt="java logo" style="margin: 3px 0;" />
+  <img src=".SVG/jenkins.svg" height="30" alt="jenkins logo" style="margin: 3px 0;" />
+  <img src=".SVG/kotlin.svg" height="30" alt="kotlin logo" style="margin: 3px 0;" />
+  <img src=".SVG/kubernetes.svg" height="30" alt="kubernetes logo" style="margin: 3px 0;" />
+  <img src=".SVG/latex.svg" height="30" alt="latex logo" style="margin: 3px 0;" />
+  <img src=".SVG/linux.svg" height="30" alt="linux logo" style="margin: 3px 0;" />
+  <img src=".SVG/markdown.svg" height="30" alt="markdown logo" style="margin: 3px 0;" />
+  <img src=".SVG/mongo.svg" height="30" alt="mongo logo" style="margin: 3px 0;" />
+  <img src=".SVG/mysql.svg" height="30" alt="mysql logo" style="margin: 3px 0;" />
+  <img src=".SVG/next.svg" height="30" alt="next logo" style="margin: 3px 0;" />
+  <img src=".SVG/node.svg" height="30" alt="node logo" style="margin: 3px 0;" />
+  <img src=".SVG/npm.svg" height="30" alt="npm logo" style="margin: 3px 0;" />
+  <img src=".SVG/opengl.svg" height="30" alt="opengl logo" style="margin: 3px 0;" />
+  <img src=".SVG/php.svg" height="30" alt="php logo" style="margin: 3px 0;" />
+  <img src=".SVG/postgresql.svg" height="30" alt="postgresql logo" style="margin: 3px 0;" />
+  <img src=".SVG/postman.svg" height="30" alt="postman logo" style="margin: 3px 0;" />
+  <img src=".SVG/processing.svg" height="30" alt="processing logo" style="margin: 3px 0;" />
+  <img src=".SVG/python.svg" height="30" alt="python logo" style="margin: 3px 0;" />
+  <img src=".SVG/qt.svg" height="30" alt="qt logo" style="margin: 3px 0;" />
+  <img src=".SVG/r.svg" height="30" alt="r logo" style="margin: 3px 0;" />
+  <img src=".SVG/sass.svg" height="30" alt="sass logo" style="margin: 3px 0;" />
+  <img src=".SVG/slack.svg" height="30" alt="slack logo" style="margin: 3px 0;" />
+  <img src=".SVG/ssh.svg" height="30" alt="ssh logo" style="margin: 3px 0;" />
+  <img src=".SVG/sqlite.svg" height="30" alt="sqlite logo" style="margin: 3px 0;" />
+  <img src=".SVG/spring.svg" height="30" alt="spring logo" style="margin: 3px 0;" />
+  <img src=".SVG/tailwind.svg" height="30" alt="tailwind logo" style="margin: 3px 0;" />
+  <img src=".SVG/trello.svg" height="30" alt="trello logo" style="margin: 3px 0;" />
+  <img src=".SVG/tomcat.svg" height="30" alt="tomcat logo" style="margin: 3px 0;" />
+  <img src=".SVG/unreal.svg" height="30" alt="unreal logo" style="margin: 3px 0;" />
+  <img src=".SVG/ubuntu.svg" height="30" alt="ubuntu logo" style="margin: 3px 0;" />
+  <img src=".SVG/selenium.svg" height="30" alt="selenium logo" style="margin: 3px 0;" />
+  <img src=".SVG/visual.svg" height="30" alt="visual logo" style="margin: 3px 0;" />
+  <img src=".SVG/vs.svg" height="30" alt="vs code logo" style="margin: 3px 0;" />
+  <img src=".SVG/windows.svg" height="30" alt="windows logo" style="margin: 3px 0;" />
+  <img src=".SVG/ps.svg" height="30" alt="photoshop logo" style="margin: 3px 0;" />
 
 </div>
 
