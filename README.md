@@ -42,14 +42,15 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".img/radar-skills-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset=".img/radar-skills-light.svg">
-    <img src=".img/radar-skills-light.svg" height="380" alt="Radar de habilidades">
-  </picture>&nbsp;&nbsp;
+    <img src=".img/radar-skills-light.svg" height="280" alt="Radar de habilidades">
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".img/radar-langs-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset=".img/radar-langs-light.svg">
-    <img src=".img/radar-langs-light.svg" height="380" alt="Radar de lenguajes">
+    <img src=".img/radar-langs-light.svg" height="280" alt="Radar de lenguajes">
   </picture>
 </p>
+
 ---
 
 <h2 align="center">Technology Stack</h2>
